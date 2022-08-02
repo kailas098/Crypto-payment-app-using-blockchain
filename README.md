@@ -16,14 +16,15 @@ Get into the `blockchain-payment-app/` folder through your terminal
 cd blockchain-payment-app
 ```
 
-To run the application make sure streamlit is installed. If not run `pip install streamlit`
+The application requires streamlit so run `pip install streamlit`
 
-Run app
+Using streamlit run the app `fintech_finder.py`
 ```
 streamlit run fintech_finder.py
 ```
 
-From your **Ganache** application, copy the mnemonic phrase into a `.env` file and change the profile addresses to send and receive payments to the accounts.
+> **Note**
+I rely on **Ganache** for my blockchain environment while making this application. I use a copy of a mnemonic phrase into a `.env` from my ganache account.
 
 Here is a screenshot of the app run.
 
