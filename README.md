@@ -4,7 +4,7 @@
 
 This project is an application that makes use of professional profiles to remit payments for hourly wages in **ETH**. This is a python application developed using the **streamlit** library for the user interface.
 
-To Run this application clone this repo to a local directory. 
+To run this application clone this repo to a local directory. 
 
 ```Terminal
 git clone git@github.com:mmsaki/blockchain-payment-app.git
