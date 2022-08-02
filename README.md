@@ -28,4 +28,4 @@ I rely on **Ganache** for my blockchain environment. You must copy a mnemonic ph
 
 Here is a screenshot of the app running on `http://localhost:8501`.
 
-![Screen Shot](./images/screenshot_app.jpg)
+![Screen Shot](./images/blockchain_app_demo.gif)
