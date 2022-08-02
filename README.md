@@ -10,7 +10,7 @@ To run this application clone this repo to a local directory.
 git clone git@github.com:mmsaki/blockchain-payment-app.git
 ```
 
-Get into the git directory through terminal
+Get into the `blockchain-payment-app/` folder through your terminal
 
 ```
 cd blockchain-payment-app
