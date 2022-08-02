@@ -26,6 +26,6 @@ streamlit run fintech_finder.py
 > **Note**
 I rely on **Ganache** for my blockchain environment. I use a copy of a mnemonic phrase into a `.env` from my ganache account.
 
-Here is a screenshot of the app run.
+Here is a screenshot of the app running.
 
 ![Screen Shot](./images/screenshot_app.jpg)
