@@ -34,8 +34,8 @@ def get_people():
         st.text(" \n")
 
 # Streamlit application headings
-st.markdown("# Fintech Finder!")
-st.markdown("## Hire A Fintech Professional!")
+st.markdown("# Blockchain Payment APP!")
+st.markdown("## Pay any professional from your crpyo wallet!")
 st.text(" \n")
 
 # Streamlit Sidebar Code - Start
