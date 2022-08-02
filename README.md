@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-This project is an application that makes use of professional profiles to remit payments for hourly wages in **ETH**. The application is developed with python and utilizes **streamlit** library for the from end application.
+This project is an application that makes use of professional profiles to remit payments for hourly wages in **ETH**. This is a python application developed using the **streamlit** library for the user interface.
 
 I generated a crypto wallet using Ganache and use these accounts to remit payments. 
 
