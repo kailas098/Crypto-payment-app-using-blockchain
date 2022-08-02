@@ -18,13 +18,13 @@ cd blockchain-payment-app
 
 The application requires streamlit so run `pip install streamlit`
 
-Using streamlit run the app `fintech_finder.py`
+Using streamlit run the app `blockchain_payment_app.py`
 ```
-streamlit run fintech_finder.py
+streamlit run blockchain_payment_app.py
 ```
 
 > **Note**
-I rely on **Ganache** for my blockchain environment. You must copy a mnemonic phrase into a `.env` file in the same directory. Create a varible `MNEMONIC = '<insert mnemonic phrase here>'`
+I rely on **Ganache** for my blockchain environment. You must copy a mnemonic phrase into a `.env` file into the same directory. Create a varible `MNEMONIC = '<insert mnemonic phrase here>'` and save it in the `.env` file. Inside the `blockchain_payment_app.py`, update the `candidate_database` dictionary with new customer accounts addresses.
 
 Here is a screenshot of the app running on `http://localhost:8501`.
 
