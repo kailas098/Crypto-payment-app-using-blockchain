@@ -24,8 +24,8 @@ streamlit run fintech_finder.py
 ```
 
 > **Note**
-I rely on **Ganache** for my blockchain environment. I use a copy of a mnemonic phrase into a `.env` from my ganache account.
+I rely on **Ganache** for my blockchain environment. You must copy a mnemonic phrase into a `.env` file in the same directory. Create a varible `MNEMONIC = '<insert mnemonic phrase here>'`
 
-Here is a screenshot of the app running.
+Here is a screenshot of the app running on `http://localhost:8501`.
 
 ![Screen Shot](./images/screenshot_app.jpg)
