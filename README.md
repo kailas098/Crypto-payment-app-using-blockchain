@@ -18,7 +18,7 @@ Get into the `blockchain-payment-app/` folder through your terminal
 cd blockchain-payment-app
 ```
 
-### Step 2: Running the applicationApplication
+### Step 2: Running the application
 
 The application requires streamlit installed so run `pip install streamlit` and then proceed.
 
