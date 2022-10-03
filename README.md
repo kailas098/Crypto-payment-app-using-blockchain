@@ -1,4 +1,4 @@
-# Blockchain Application 
+# Payment Application 
 
 ## Summary
 
