@@ -1,37 +1,34 @@
-# Payment Application 
+# Payment Application using blockchain
 
 ## Summary
 
-This project is an application that makes use of professional profiles to remit payments for hourly wages in **ETH**. This is a python application developed using the **streamlit** library for the user interface.
+This is a crypto payment app using blockchain 
 
-To run this application clone this repo to a local directory. 
+## step-1 insatll all the necessary module
 
-### Step 1: Clone Repo
-Open Terminal and run the following command.
-```Terminal
-git clone git@github.com:mmsaki/blockchain-payment-app.git
-```
+### blockchain_payment_app.py
 
-Get into the `blockchain-payment-app/` folder through your terminal
+1) streamlit 
+2) dataclasses
+3) typing
+4) web3
+5) crypto_wallet 
 
-```
-cd blockchain-payment-app
-```
+### Crypto_wallet.py
 
-### Step 2: Running the application
+1) os
+2) dotenv 
+3) bip44 import Wallet
+4) web3 import Account
+5) web3
 
-The application requires streamlit installed so run `pip install streamlit` and then proceed.
+## step-2 install ganache from : https://trufflesuite.com/ganache/
 
-Using streamlit run the app `blockchain_payment_app.py` using the following command.
-```
-streamlit run blockchain_payment_app.py
-```
+- start your blockchain by clicking on quickstart
+image.png
+- copy the mnemonic into the .env file
+image.png
 
-> **Note**
-I rely on **Ganache** for my blockchain environment. Copy a mnemonic phrase into a `.env` file in the same directory. Create a varible `MNEMONIC = '<insert mnemonic phrase here>'` and save the `.env` file. Open the `blockchain_payment_app.py` and update the `candidate_database` with new customer account addresses.
+## step-3 :
 
-## Example
-
-Here is a screenshot of the app running on `http://localhost:8501`.
-
-![Screen Shot](./images/blockchain_app_demo.gif)
+run the command: "streamlit run blockchain_Payment_app.py" on your terminal.
