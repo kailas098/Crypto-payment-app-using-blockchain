@@ -28,7 +28,7 @@ This is a crypto payment app using blockchain
 
 - copy the mnemonic into the .env file
 
-![image](https://user-images.githubusercontent.com/42032085/201481244-5ea7be52-eab0-4450-b7ce-3836132156e6.png)
+![image](https://user-images.githubusercontent.com/42032085/201481331-2d986cc8-5a5b-4aa2-bd76-705efb1f8666.png)
 
 ## step-3 :
 
