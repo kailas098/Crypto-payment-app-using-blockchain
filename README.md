@@ -25,9 +25,10 @@ This is a crypto payment app using blockchain
 ## step-2 install ganache from : https://trufflesuite.com/ganache/
 
 - start your blockchain by clicking on quickstart
-image.png
+
 - copy the mnemonic into the .env file
-image.png
+
+![image](https://user-images.githubusercontent.com/42032085/201481244-5ea7be52-eab0-4450-b7ce-3836132156e6.png)
 
 ## step-3 :
 
